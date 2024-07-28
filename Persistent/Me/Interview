@@ -1,17 +1,26 @@
-Persisent 
-L1 technical round 
-Tell what you don't like about Kolkata?
-1) diamond pattern printing
-2) how we can achieve reusability of code without using inheritance?If yes there is a solution for this then why  we use only inheritance for this?
-3)Define normalisation? Hr gave us table and asked it is normalised or not 
-4) Definition of encapsulation?If all are public then is it encapsulation? .....He changes access specifiers each time in question for different  components of program and confused us ...
 
-Second technical round 
- 1)1 missing number dhundhna tha 
-2) reverse a string by words 
-3)4pillars of oops
-4) definition of polymorphism and it's types 
-5)process synchronisation
+#Rounds (onCampus)-
+1)📝 Round 1 - 2 coding questions (Java preferred only)
+2)💻 Round 2 - L1 Technical interview
+3)💼 Round 3 - L2 Technical interview
+4)🗣️ Round 4 - Communication round (not an elimination round)
+5)🏢 Round 5 - HR interview
+
+#L1 Technical interview(Interview taken 3 students together)
+1)Tell what you don't like about Kolkata?
+2) diamond pattern printing(using pen ,paper)
+2) how we can achieve reusability of code without using inheritance?
+If yes there is a solution for this then why  we use only inheritance for this?
+3)Define normalization ? Interviewer gave us a table and asked it is normalized or not 
+4) Definition of encapsulation ?If all are public then is it encapsulation? 
+Interviewer changed access specifiers each time in same question for different components of program 
+
+#L2 Technical interview
+1)Find a missing number in number puzzle
+2)reverse a string by words(Coding in pen and paper)
+3)4 pillars of oops
+definition of polymorphism and it's types 
+4)process synchronization
 
 Extra-
 1)Stack and queue example in WhatsApp
