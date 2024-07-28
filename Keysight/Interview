@@ -1,0 +1,23 @@
+Interview Experience Keysight Technologies
+
+First he asked me to sit, he asked where do you live
+Then we talk about how i daily commute to college and traffic jams
+
+He asked for my resume
+He asked me to explain my projects, i explained two of my projects
+Then he switched and ask if had expereince with linux or not and asked following questions.
+commands like fork() and exec(), 
+Then he asked about endianess, big endane and small endane, and its dependent upon which part
+talked about processors especially arm processor
+types of semaphore. difference b/w them.
+difference between listen and accept
+how to segment a network
+He gave me a classless address and asked me to write network address and broadcast address and show the total process of calculation
+Address of a computer related to network
+Why ip address is required if we already have mac address
+
+Atlast he asked me a dsa question:- Length of longest repeating substring
+I told him O(n2) approach, although i had knowledge about the O(n) approach using KMP algorithm (Mainly asked during MAANG interviews), 
+After telling him the approach I asked if i should write the code (pen and paper based) but he said no, and 
+asked a follow up question that what is the maximum length of substring that you should check. 
+My response: we need to check substring of max len n/2 because if the len of substring is greater than n/2 then it can't be repeated and we can simply exclude it from our search space.
