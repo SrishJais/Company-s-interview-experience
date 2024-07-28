@@ -1,0 +1,11 @@
+Rtcamp
+"1. Sessions and cookies
+Git and GitHub(how git stores commit and branches )
+MySqli in context of PhP, how to create session and store cache in PhP
+Cryptography, encryption and hashing and their specific use cases
+SSL basics
+Basics of JavaScript (threading, loosely typed, interpreted language, difference with compiled language)
+Several system design questions about YouTube and how you would go on designing something like YouTube to give optimal experience.
+Write a lightweight algorithm for lift functioning.
+Design a email subscription service and name the protocol that is best suited for this type of service(SMTP).
+Several random questions about servers,proxy server, load balancer, incognito mode."
